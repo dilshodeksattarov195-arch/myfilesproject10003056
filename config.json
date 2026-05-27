@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeruarse",
+        "uuid": 1402704,
+        "checksum": "948a99"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
